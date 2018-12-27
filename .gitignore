@@ -1,0 +1,11 @@
+
+.DS_Store
+.idea/
+java/.DS_Store
+java/oc/.idea/
+java/oc/out/
+python/.idea/
+ruby/.idea/
+ruby/.project
+python/bad/__pycache__/
+python/good/__pycache__/
